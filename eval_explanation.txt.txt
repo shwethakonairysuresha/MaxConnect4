@@ -1,0 +1,4 @@
+The eval function checks row by row for entries of both the players and increases the utility by one if it finds player 1(AI agent) 
+entry and reduces the utility by one if it finds an entry of the player 2(Human Player). 
+
+It is a very simple eval fucntion, but will help AI agent win if the human player plays randomly.
